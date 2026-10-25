@@ -1,0 +1,45 @@
+{
+  "intro": "Violon, chant, théâtre, comédie musicale, photographie : des pratiques que je mène en parallèle de mes études, et que cette page permet d'explorer pour elles-mêmes.",
+  "sections": [
+    {
+      "id": "musique-scene",
+      "title": "Musique et scène",
+      "paras": ["Mes pratiques de la scène et de la musique."],
+      "list": [
+        "Violon",
+        "Chant",
+        "Théâtre",
+        "Comédie musicale",
+        "Participation à Do's Musical (Université Paris Dauphine-PSL)"
+      ],
+      "media": [],
+      "todo": "Ajouter, uniquement avec des fichiers fournis : galeries d'images, extraits audio ou vidéo, programmes, affiches."
+    },
+    {
+      "id": "photographie",
+      "title": "Photographie",
+      "paras": [],
+      "gallery": [],
+      "todo": "Ajouter des photographies dans public/images/arts/ puis les déclarer ici (fichier, texte alternatif, légende, date, catégorie)."
+    },
+    {
+      "id": "realisations",
+      "title": "Réalisations artistiques",
+      "paras": [],
+      "projects": [],
+      "todo": "Présenter un projet complet : contexte, intention, processus de création, références et productions finales."
+    },
+    {
+      "id": "culture-histoire-art",
+      "title": "Culture et histoire de l'art",
+      "paras": [],
+      "todo": "Espace pour des analyses, des réflexions et des projets culturels interdisciplinaires."
+    },
+    {
+      "id": "demarche",
+      "title": "Démarche personnelle",
+      "paras": [],
+      "todo": "Expliquer ce que je cherche dans ces pratiques et comment elles se rapportent à la perception et à l'expression."
+    }
+  ]
+}

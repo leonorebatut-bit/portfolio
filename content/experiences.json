@@ -1,0 +1,111 @@
+{
+  "categories": [
+    {
+      "id": "professionnel",
+      "title": "Expériences professionnelles",
+      "groups": [
+        {
+          "id": "design-cognitif",
+          "title": "Design cognitif",
+          "items": [
+            {
+              "id": "humans-matter",
+              "title": "Humans Matter",
+              "kind": "Stage d'observation",
+              "period": "2022",
+              "summary": "Expérience en design cognitif, avec découverte de méthodes de recherche et de méthodes analytiques.",
+              "fiche": {
+                "contexte": null,
+                "missions": null,
+                "competences": ["Découverte de méthodes de recherche", "Découverte de méthodes analytiques"],
+                "liens": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "tutorat-groupe",
+          "title": "Tutorat individuel",
+          "items": [
+            {
+              "id": "tutorat",
+              "title": "Tutorat individuel",
+              "kind": "Accompagnement scolaire hebdomadaire",
+              "period": "Depuis 2021",
+              "summary": "Accompagnement scolaire hebdomadaire.",
+              "fiche": {
+                "contexte": null,
+                "matieres": null,
+                "niveaux": null,
+                "responsabilites": null,
+                "competences": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "autres-pro",
+          "title": "Autres expériences professionnelles",
+          "intro": "Ces expériences témoignent de compétences professionnelles variées, d'adaptation et de responsabilités.",
+          "items": [
+            { "id": "restauration", "title": "Service en restauration et lors de mariages", "kind": "Restauration", "period": null, "summary": null, "fiche": { "contexte": null, "missions": null, "competences": null } },
+            { "id": "garde-enfants", "title": "Garde d'enfants", "kind": "Garde d'enfants", "period": null, "summary": null, "fiche": { "contexte": null, "missions": null, "competences": null } },
+            { "id": "evenementiel", "title": "Séminaires professionnels et personnel événementiel", "kind": "Événementiel", "period": null, "summary": null, "fiche": { "contexte": null, "missions": null, "competences": null } },
+            { "id": "vente", "title": "Vente", "kind": "Vente", "period": null, "summary": null, "fiche": { "contexte": null, "missions": null, "competences": null } },
+            { "id": "serre", "title": "Travail saisonnier en serre horticole", "kind": "Travail saisonnier", "period": null, "summary": null, "fiche": { "contexte": null, "missions": null, "competences": null } }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "associatif",
+      "title": "Responsabilités associatives et vie étudiante",
+      "groups": [
+        {
+          "id": "citoyennete",
+          "title": "Citoyenneté et vie étudiante",
+          "items": [
+            {
+              "id": "citoyens",
+              "title": "CitoyENS Association",
+              "kind": "Membre · Paris",
+              "period": null,
+              "summary": "Participation à l'organisation de conférences.",
+              "fiche": { "contexte": null, "missions": ["Participation à l'organisation de conférences"], "competences": null }
+            },
+            {
+              "id": "bde-culture",
+              "title": "BDE du Collège étudiant PSL",
+              "kind": "Membre du pôle Culture",
+              "period": null,
+              "summary": "Organisation d'événements culturels.",
+              "fiche": { "contexte": null, "missions": ["Organisation d'événements culturels"], "competences": null }
+            },
+            {
+              "id": "llg-gender-equality",
+              "title": "LLG Gender Equality",
+              "kind": "Responsable communication",
+              "period": null,
+              "summary": null,
+              "fiche": { "contexte": null, "missions": null, "competences": null }
+            }
+          ]
+        },
+        {
+          "id": "arts-spectacle",
+          "title": "Arts et spectacle",
+          "items": [
+            {
+              "id": "dos-musical",
+              "title": "Do's Musical",
+              "kind": "Membre · Université Paris Dauphine-PSL",
+              "period": null,
+              "summary": null,
+              "fiche": { "contexte": null, "missions": null, "competences": null }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

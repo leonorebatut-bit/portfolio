@@ -1,0 +1,45 @@
+{
+  "intro": "Engagements citoyens, associatifs et bénévoles.",
+  "blocks": [
+    {
+      "id": "scoutisme",
+      "title": "Scoutisme",
+      "org": "Scouts et Guides de France",
+      "period": "12 années d'engagement",
+      "paras": [
+        "Un parcours de douze années au sein des Scouts et Guides de France, comprenant plusieurs années dans des rôles de leadership.",
+        "J'ai également été représentante d'association au sein du Groupement des associations."
+      ],
+      "todo": "Préciser les rôles de leadership et leurs dates."
+    },
+    {
+      "id": "pass-age",
+      "title": "Soutien scolaire bénévole",
+      "org": "Association Pass-Âge",
+      "period": null,
+      "paras": [
+        "Accompagnement d'élèves de l'école primaire au collège dans des quartiers défavorisés."
+      ],
+      "todo": "Préciser la période et la fréquence."
+    },
+    {
+      "id": "engagements-ponctuels",
+      "title": "Engagements ponctuels",
+      "org": null,
+      "period": null,
+      "list": [
+        { "text": "Camp de surveillance des feux de forêt avec le service d'incendie de Marseille", "date": "2023" },
+        { "text": "Marches de nettoyage collectif", "date": null },
+        { "text": "Bénévolat auprès d'une banque alimentaire", "date": null },
+        { "text": "Bénévolat lors d'un marathon", "date": null },
+        { "text": "Tables ouvertes communautaires", "date": null }
+      ]
+    }
+  ],
+  "skills": {
+    "title": "Compétences développées",
+    "paras": [
+      "Ces engagements m'ont donné l'occasion d'exercer des responsabilités auprès de groupes, d'accompagner des élèves, de coopérer avec d'autres bénévoles et de m'impliquer dans des actions collectives. Je ne cherche pas à mesurer ici leur impact social : seules les activités elles-mêmes sont décrites."
+    ]
+  }
+}

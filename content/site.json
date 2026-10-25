@@ -1,0 +1,90 @@
+{
+  "name": "Léonore Batut",
+  "title": "Léonore Batut — Portfolio académique",
+  "description": "Portfolio académique de Léonore Batut, étudiante en CPES Sciences des données, arts et cultures (PSL – Louis-le-Grand) : sciences cognitives, méthodes quantitatives, arts et culture.",
+  "url": "",
+  "lang": "fr",
+  "showPlaceholders": true,
+  "email": "leonore.batut@gmail.com",
+  "emailUniversity": "leonore.batut@psl.eu",
+  "linkedin": "https://www.linkedin.com/in/leonore-b-a24623280/",
+  "phone": { "value": null, "public": false },
+  "portrait": { "alt": "Portrait de Léonore Batut" },
+  "hero": {
+    "status": "Étudiante en deuxième année de CPES · Université PSL et lycée Louis-le-Grand",
+    "paras": [
+      "Étudiante en sciences des données, arts et cultures à l'Université PSL et au lycée Louis-le-Grand, je m'intéresse aux sciences cognitives, à la psychologie, aux méthodes quantitatives et aux relations entre culture, art et cognition.",
+      "J'aime explorer des questions à l'intersection de plusieurs disciplines, construire des projets, apprendre de nouvelles méthodes et comprendre comment les outils scientifiques permettent d'étudier les phénomènes humains. Je souhaite progressivement orienter mon parcours vers la recherche."
+    ]
+  },
+  "interests": [
+    {
+      "title": "Sciences cognitives et psychologie",
+      "text": "Comment percevons-nous le temps, et comment cette perception se traduit-elle dans nos comportements ? Mon projet de recherche indépendant part de cette question.",
+      "links": [
+        { "label": "La perception du temps et le comportement", "href": "recherche/projets/perception-du-temps/" },
+        { "label": "Lectures & réflexions", "href": "recherche/lectures/" }
+      ]
+    },
+    {
+      "title": "Méthodes quantitatives, statistiques et programmation",
+      "text": "Statistiques, analyse de données, algorithmique et programmation : les outils qui permettent de mettre une question à l'épreuve.",
+      "links": [
+        { "label": "Compétences", "href": "competences/" },
+        { "label": "Poros V", "href": "recherche/projets/poros-v/" }
+      ]
+    },
+    {
+      "title": "Culture, transmission et évolution culturelle",
+      "text": "Ce qui se transmet, ce qui s'efface, ce qui est écrit dans l'histoire. Mon cursus en histoire et culture, et ma participation aux Sans PagEs, s'y rattachent.",
+      "links": [
+        { "label": "Les Sans PagEs", "href": "recherche/projets/les-sans-pages/" },
+        { "label": "Culture et histoire de l'art", "href": "arts-culture/#culture-histoire-art" }
+      ]
+    },
+    {
+      "title": "Arts, perception et expression artistique",
+      "text": "Violon, chant, théâtre, comédie musicale, photographie : des pratiques artistiques à part entière, présentées pour elles-mêmes.",
+      "links": [
+        { "label": "Arts & culture", "href": "arts-culture/" }
+      ]
+    }
+  ],
+  "future": {
+    "title": "Prochains travaux de recherche",
+    "text": "Cet emplacement accueillera les futurs projets, stages et travaux de recherche, à mesure qu'ils existeront.",
+    "href": "recherche/"
+  },
+  "timeline": [
+    { "date": "Depuis 2021", "label": "Tutorat individuel", "text": "Accompagnement scolaire hebdomadaire.", "href": "experiences/#tutorat" },
+    { "date": "2022", "label": "Stage d'observation en design cognitif", "text": "Humans Matter.", "href": "experiences/#humans-matter" },
+    { "date": "2023", "label": "Camp de surveillance des feux de forêt", "text": "Avec le service d'incendie de Marseille.", "href": "engagements/#engagements-ponctuels" },
+    { "date": "Juin 2025", "label": "Baccalauréat français, mention Très Bien", "text": "Lycée Madeleine Daniélou.", "href": "formation/#bac" },
+    { "date": "Depuis 2025", "label": "CPES Sciences des données, arts et cultures", "text": "Université PSL et lycée Louis-le-Grand.", "href": "formation/#cpes" },
+    { "date": "Janvier 2026", "label": "Enquête sur la perception du temps", "text": "134 réponses recueillies du 15 au 23 janvier.", "href": "recherche/projets/perception-du-temps/" },
+    { "date": "2026", "label": "Poros V", "text": "Jeu interactif conçu en équipe de six personnes.", "href": "recherche/projets/poros-v/" }
+  ],
+  "now": {
+    "visible": true,
+    "items": [
+      { "label": "Lectures scientifiques en cours", "text": null },
+      { "label": "Projets en cours", "text": null },
+      { "label": "Candidatures et opportunités académiques", "text": null },
+      { "label": "Événements et productions artistiques à venir", "text": null }
+    ]
+  },
+  "about": {
+    "paras": [
+      "Mon cursus mêle mathématiques, statistiques, programmation, histoire, littérature et histoire de l'art. Cette pluralité est la manière dont j'aborde les questions qui m'occupent : à la frontière de plusieurs disciplines, plutôt qu'à l'intérieur d'une seule.",
+      "Ce qui m'attire dans les sciences cognitives et la psychologie, c'est la possibilité de poser des questions sur l'expérience humaine — la perception du temps, par exemple — et de leur donner une forme qui puisse être étudiée. Mon enquête de janvier 2026, qui a recueilli 134 réponses, est un premier essai de cette démarche.",
+      "J'apprécie les approches quantitatives pour ce qu'elles obligent à préciser : une question, une mesure, et ce que les données permettent — ou non — de conclure. Je cherche à garder cette rigueur sans perdre de vue ce que les chiffres ne disent pas.",
+      "À côté de mes études, je pratique le violon, le chant, le théâtre et la photographie. Ces pratiques occupent une place à part entière dans mon parcours ; elles sont présentées indépendamment sur la page Arts & culture.",
+      "Je souhaite orienter progressivement mon parcours vers la recherche, notamment en sciences cognitives. Ce site est un outil de travail : il évoluera avec mes projets, mes lectures et mes futurs stages."
+    ]
+  },
+  "contact": {
+    "paras": [
+      "N'hésitez pas à m'écrire pour un échange scientifique, un projet interdisciplinaire, une collaboration étudiante ou une question sur mes travaux."
+    ]
+  }
+}

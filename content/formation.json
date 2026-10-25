@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "id": "cpes",
+      "title": "CPES Sciences des données, arts et cultures",
+      "org": "Université PSL et lycée Louis-le-Grand",
+      "period": "Depuis 2025 · deuxième année",
+      "intro": "Formation pluridisciplinaire associant sciences des données, mathématiques, programmation, statistiques, histoire, culture et disciplines artistiques.",
+      "listTitle": "Domaines étudiés dans le cursus",
+      "list": [
+        "Mathématiques",
+        "Algorithmes et programmation",
+        "Statistiques",
+        "Analyse de données",
+        "Littérature",
+        "Histoire",
+        "Anglais et français",
+        "Langue des signes française",
+        "Écriture académique",
+        "Histoire de l'art"
+      ]
+    },
+    {
+      "id": "bac",
+      "title": "Baccalauréat français",
+      "org": "Lycée Madeleine Daniélou",
+      "period": "Juin 2025",
+      "intro": null,
+      "listTitle": null,
+      "list": [
+        "Spécialités mathématiques et physique-chimie",
+        "Mathématiques expertes",
+        "Mention Très Bien"
+      ]
+    }
+  ],
+  "certifications": [
+    { "id": "google-ai", "title": "Google AI Professional Certificate", "org": "Google", "date": null, "description": null, "verifyUrl": null },
+    { "id": "google-data-analytics", "title": "Google Data Analytics", "org": "Google", "date": null, "description": null, "verifyUrl": null },
+    { "id": "ai-fluency", "title": "AI Fluency for Students", "org": "Anthropic", "date": null, "description": null, "verifyUrl": null },
+    { "id": "hubspot-smm", "title": "Social Media Marketing", "org": "HubSpot", "date": null, "description": null, "verifyUrl": null },
+    { "id": "open-university-infographics", "title": "The Power of Infographics in Research Dissemination", "org": "The Open University", "date": null, "description": null, "verifyUrl": null },
+    { "id": "affinity-designer", "title": "Formation Affinity Designer", "org": "Alison", "date": null, "description": null, "verifyUrl": null }
+  ]
+}

@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "perception-du-temps",
+    "title": "The Influence of Time Perception on Behaviour",
+    "shortTitle": "L'influence de la perception du temps sur le comportement",
+    "category": "Recherche indépendante",
+    "domains": ["Sciences cognitives", "Psychologie"],
+    "methods": ["Enquête", "Analyse statistique"],
+    "production": "Projet de recherche personnel",
+    "year": 2026,
+    "period": "Janvier 2026 (collecte des réponses)",
+    "status": "projet-personnel",
+    "featured": true,
+    "featuredOrder": 1,
+    "summary": "Projet de recherche personnel sur les liens entre la façon dont on perçoit le temps et certains comportements. Enquête de 134 réponses, recueillies du 15 au 23 janvier 2026.",
+    "note": "Il s'agit d'un projet personnel de recherche, mené de façon indépendante : ce n'est ni un article publié ni une recherche institutionnelle.",
+    "sections": [
+      {
+        "id": "question",
+        "title": "Question générale",
+        "paras": ["Comment la perception subjective du temps est-elle liée à nos comportements ?"],
+        "todo": "Préciser la question de recherche et, si elles existent, les hypothèses de départ."
+      },
+      {
+        "id": "motivation",
+        "title": "Motivation scientifique",
+        "todo": "Expliquer ce qui a motivé la question : observation, lecture, intérêt pour le sujet."
+      },
+      {
+        "id": "resultats",
+        "title": "Résultats",
+        "tag": "observe",
+        "paras": [
+          "Des associations statistiquement significatives ont été observées entre la perception subjective du temps et le retard, ainsi qu'entre la perception cyclique du temps et l'anxiété temporelle.",
+          "Ces résultats décrivent des associations entre variables mesurées par l'enquête ; ils ne permettent pas, en l'état, de conclure à un effet causal."
+        ],
+        "todo": "Ajouter les tests utilisés, les coefficients et les valeurs p uniquement à partir des données et du rapport d'analyse."
+      },
+      {
+        "id": "concepts",
+        "title": "Concepts et littérature mobilisés",
+        "technical": true,
+        "list": ["Perception subjective du temps", "Perception cyclique du temps", "Anxiété temporelle", "Retard"],
+        "todo": "Compléter avec les références théoriques et la littérature effectivement mobilisées (voir la bibliographie)."
+      },
+      {
+        "id": "methodologie",
+        "title": "Méthodologie et protocole",
+        "technical": true,
+        "tag": "realise",
+        "paras": ["Enquête menée auprès de répondants et analysée statistiquement."],
+        "todo": "Décrire le questionnaire, son mode de diffusion, les échelles utilisées et le protocole."
+      },
+      {
+        "id": "participants",
+        "title": "Participants et données",
+        "technical": true,
+        "tag": "realise",
+        "paras": ["134 réponses ont été recueillies entre le 15 et le 23 janvier 2026."],
+        "todo": "Ajouter, si souhaité, des informations sur l'échantillon (profil, exclusions) à partir des données."
+      },
+      {
+        "id": "analyses",
+        "title": "Analyses statistiques",
+        "technical": true,
+        "todo": "Décrire les analyses réalisées (tests, logiciels, seuils) à partir du code et du rapport."
+      },
+      {
+        "id": "limites",
+        "title": "Limites",
+        "todo": "Discuter les limites : échantillon, mesures déclaratives, biais de sélection, nature corrélationnelle des résultats."
+      },
+      {
+        "id": "perspectives",
+        "title": "Perspectives",
+        "tag": "hypothese",
+        "todo": "Indiquer les prolongements envisagés (réplication, protocole expérimental, nouvelles mesures)."
+      }
+    ],
+    "documents": [
+      { "id": "perception-du-temps-rapport", "title": "Rapport", "type": "Rapport PDF", "description": "Rapport de l'étude.", "date": null },
+      { "id": "perception-du-temps-presentation", "title": "Présentation", "type": "Présentation", "description": "Support de présentation du projet.", "date": null },
+      { "id": "perception-du-temps-questionnaire", "title": "Questionnaire", "type": "Questionnaire", "description": "Questionnaire utilisé pour l'enquête.", "date": null },
+      { "id": "perception-du-temps-analyses", "title": "Analyses et visualisations", "type": "Analyses", "description": "Figures et sorties d'analyse.", "date": null },
+      { "id": "perception-du-temps-code", "title": "Code Python", "type": "Code", "description": "Scripts d'analyse en Python.", "date": null },
+      { "id": "perception-du-temps-bibliographie", "title": "Bibliographie", "type": "Bibliographie", "description": "Références citées.", "date": null }
+    ],
+    "resources": [],
+    "references": []
+  },
+  {
+    "slug": "poros-v",
+    "title": "Poros V",
+    "category": "Projets de programmation et de données",
+    "domains": ["Informatique", "Intelligence artificielle"],
+    "methods": ["Conception collective", "Reconnaissance d'images"],
+    "production": "Jeu interactif en ligne",
+    "year": 2026,
+    "period": "2026",
+    "status": "projet-collectif",
+    "featured": true,
+    "featuredOrder": 2,
+    "summary": "Conception et développement d'un jeu interactif en ligne, réalisé en 2026 au sein d'une équipe de six personnes : un jeu d'évasion avec reconnaissance d'images et fonctionnalités d'intelligence artificielle.",
+    "note": "Projet collectif réalisé à six. Ma contribution personnelle est à préciser et ne recouvre pas l'ensemble du projet.",
+    "sections": [
+      {
+        "id": "concept",
+        "title": "Concept du jeu",
+        "paras": ["Poros V est un jeu d'évasion en ligne qui s'appuie sur la reconnaissance d'images et intègre des fonctionnalités d'intelligence artificielle."],
+        "todo": "Décrire le scénario, les règles et la boucle de jeu."
+      },
+      {
+        "id": "experience",
+        "title": "Expérience utilisateur",
+        "todo": "Décrire le parcours du joueur et les choix d'interface."
+      },
+      {
+        "id": "conception",
+        "title": "Conception collective",
+        "paras": ["Le projet a été conçu et développé en 2026 par une équipe de six personnes."],
+        "todo": "Préciser l'organisation du travail (répartition, outils de coordination)."
+      },
+      {
+        "id": "contribution",
+        "title": "Ma contribution personnelle",
+        "todo": "Préciser mes tâches et responsabilités dans l'équipe."
+      },
+      {
+        "id": "technologies",
+        "title": "Technologies utilisées",
+        "technical": true,
+        "todo": "Lister les langages, bibliothèques et services effectivement utilisés."
+      },
+      {
+        "id": "reconnaissance-images",
+        "title": "Enjeux de reconnaissance d'images",
+        "technical": true,
+        "todo": "Décrire l'approche retenue et les difficultés rencontrées."
+      }
+    ],
+    "documents": [],
+    "resources": [
+      { "kind": "Démonstration", "label": "Démonstration en ligne", "url": null },
+      { "kind": "Code source", "label": "Dépôt Git", "url": null }
+    ],
+    "references": []
+  },
+  {
+    "slug": "les-sans-pages",
+    "title": "Les Sans PagEs",
+    "category": "Contributions éditoriales",
+    "domains": ["Histoire", "Culture et transmission"],
+    "methods": ["Rédaction encyclopédique"],
+    "production": "Articles Wikipédia",
+    "year": null,
+    "period": null,
+    "status": "contribution",
+    "featured": true,
+    "featuredOrder": 3,
+    "summary": "Participation au groupe de travail Wikipédia « Les Sans PagEs », consacré à la rédaction d'articles et de biographies de femmes sous-représentées dans l'histoire.",
+    "sections": [
+      {
+        "id": "travail-editorial",
+        "title": "Le travail éditorial",
+        "paras": ["Le groupe de travail Les Sans PagEs rédige des articles et des biographies de femmes sous-représentées dans l'histoire sur Wikipédia."],
+        "todo": "Décrire la démarche de rédaction : choix des sujets, sources, relecture."
+      },
+      {
+        "id": "contribution",
+        "title": "Ma contribution",
+        "todo": "Préciser la période de participation et la nature de mes contributions."
+      },
+      {
+        "id": "articles",
+        "title": "Articles auxquels j'ai contribué",
+        "todo": "Ajouter les liens vers les articles (rubrique « resources » du projet)."
+      }
+    ],
+    "documents": [],
+    "resources": [],
+    "references": []
+  }
+]

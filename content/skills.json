@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "id": "programmation-donnees",
+      "title": "Programmation et données",
+      "intro": "Pour chaque compétence, un niveau descriptif, des contextes d'usage et des projets associés peuvent être ajoutés (champs « level », « context », « projects », « experiences »).",
+      "items": [
+        { "name": "Python" },
+        { "name": "SQL" },
+        { "name": "Statistiques", "projects": ["perception-du-temps"] },
+        { "name": "Algorithmes" },
+        { "name": "Programmation" },
+        { "name": "Analyse de données", "projects": ["perception-du-temps"] },
+        { "name": "Git et GitHub" },
+        { "name": "Connaissances fondamentales en intelligence artificielle et reconnaissance d'images", "projects": ["poros-v"] }
+      ]
+    },
+    {
+      "id": "methodes-scientifiques",
+      "title": "Méthodes scientifiques",
+      "intro": "Méthodes documentées dans mon parcours. D'autres compétences (conception expérimentale, analyses statistiques spécifiques, méthodes qualitatives) pourront être ajoutées lorsque je pourrai les justifier.",
+      "items": [
+        { "name": "Recherche", "experiences": ["humans-matter"] },
+        { "name": "Méthodes analytiques", "experiences": ["humans-matter"] },
+        { "name": "Analyse de données", "projects": ["perception-du-temps"] },
+        { "name": "Écriture académique" }
+      ]
+    },
+    {
+      "id": "arts-expression",
+      "title": "Arts et expression",
+      "intro": null,
+      "items": [
+        { "name": "Violon" },
+        { "name": "Chant" },
+        { "name": "Théâtre" },
+        { "name": "Comédie musicale", "experiences": ["dos-musical"] },
+        { "name": "Tango argentin" },
+        { "name": "Photographie" },
+        { "name": "Prise de parole en public" }
+      ]
+    },
+    {
+      "id": "langues",
+      "title": "Langues",
+      "intro": null,
+      "items": [
+        { "name": "Français", "level": "Langue maternelle" },
+        { "name": "Anglais", "level": "C1, Cambridge" },
+        { "name": "Chinois", "level": "Niveau académique" },
+        { "name": "Langue des signes française", "level": "Niveau académique" },
+        { "name": "Espagnol", "level": "Débutant" }
+      ]
+    }
+  ]
+}
